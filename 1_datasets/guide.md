@@ -7,8 +7,7 @@ data & types it contains, what you use it for, ...).
 One of the primary goals of this repository is that anyone can clone and
 replicate your research. To make this possible **DO NOT modify or overwrite your
 raw datasets**! You should keep them _exactly_ as they were when you downloaded
-them, you may even want to name them `dataset.raw.ext` (eg.
-`daily_temperatures.raw.csv`).
+them, you may even want to name them `dataset.raw.ext` (eg.`daily_temperatures.raw.csv`).
 
 When cleaning and processing your datasets, you should save the prepared data to
 a _new_ file with a descriptive name. This approach will result in many dataset
@@ -42,6 +41,8 @@ Below is an overview of different kinds of dataset you will encounter:
 5. [Classification by Access Type](#classification-by-access-type)
 6. [Classification by Purpose](#classification-by-purpose)
 7. [Classification by Format](#classification-by-format)
+
+## Classification by Data Type
 
 ### Quantitative (Numerical) Data
 

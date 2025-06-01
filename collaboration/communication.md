@@ -11,37 +11,73 @@
 
 ---
 
-## Communication Schedule
+## 📅 Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day      | How           | The Topic of Discussion                            |
+|----------|---------------|----------------------------------------------------|
+| Monday | Slack | Quick async check-ins. Raise blockers or technical issues. |
+| Tuesday | Slack         | Share updates, ask for help, prep for workshop (if any).|
+| Wednesday| Zoom @ 8AM | Midweek alignment. Quick updates + clarify team progress.|
+| Thursday | Slack         | Ongoing issues, light check-ins, async questions. |
+| Friday   | Slack         | Final updates for the week, prep for weekend sessions.|
+| Saturday | Zoom @ 12PM   | **Hands-on session**: code review, repo tasks, debugging.|
+| Sunday   | Zoom @ 12PM   | **Weekly wrap-up**: review progress, plan next week.|
 
-## Communication Channels
+## 💬 Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**:  
+  Created as needed to track tasks, bugs, and discussion items.  
+  Used for assigning work, clarifying deliverables, and linking related pull requests.
+
+- **Pull Requests**:  
+  Opened when a feature or task is ready for review.  
+  Used for code review, inline comments, and merging approved changes to main branches.
+
+- **Slack/Discord**:  
+  Daily async communication.  
+  Used for quick questions, updates, sharing resources, reminders, and coordinating
+  meetings.
+
+- **Video Calls**:  
+  Held 2–3 times per week (Wed/Sat/Sun).  
+  Used for deep discussions, live problem-solving, milestone planning, and team alignment.
 
 ---
 
-## Availability
+## 🕒 Availability
 
-### Availability for calling/messaging
+### Availability for calling/messaging EET
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| Arthur | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Ayham  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Safa   | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Safia  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Tamara | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Yuri   | 2-8AM  | 2-8AM   | 2-8AM  | 2-8AM   | 2-8AM | 2-8AM  | 2-8AM|
+
+### Availability for calling/messaging PST
+
+| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| Arthur | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Ayham  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Safa   | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Safia  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Tamara | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Yuri   | 5-11PM  | 5-11PM   | 5-11PM  | 5-11PM   | 5-11PM | 8AM-8PM  | 8AM-8PM|
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Arthur: _5h_;
+- Ayham: _6h_;
+- Safa: _5h_;
+- Safia: _4h_;
+- Tamara: _3h_;
+- Yuri: _4h_;
 
 ## Asking for Help
 
