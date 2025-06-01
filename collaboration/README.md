@@ -2,7 +2,7 @@
 
 <!-- group norms summary -->
 As a diverse group of six individuals with varied backgrounds, cultures, and experiences, we are dedicated to fostering a collaborative environment based on mutual respect, openness, and shared responsibility.
-# The List
+## The List
 <!-- group norms list -->
 
 - We value trust, respect, and accountability.
