@@ -1,34 +1,24 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
-
 # Constraints
-
-Some boundaries around our project.
+Some boundaries around our project that guide scope, collaboration, and execution.
 
 ## External
-
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+- All project deliverables must be completed by the milestone deadlines defined in the syllabus.
+- Workshop attendance is required by at least 2 team members per session.
+- We must use GitHub as our primary collaboration platform (issues, pull requests, markdown files).
+- Final deliverables must be accessible and clearly documented in the repository.
 
 ## Internal: Involuntary
-
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- Team members are in different time zones, which may limit synchronous meeting times.
+- Individual availability varies throughout the week (some can commit more on weekends).
+- Some members are balancing this project with full-time work or studies.
+- Technical equipment and internet access may vary across team members.
 
 ## Internal: Voluntary
-
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- We will use pull requests for **all** contributions — no direct commits to `main`.
+- At least one reviewer must approve a PR before merging.
+- We will follow consistent commit message conventions (e.g., `fix:`, `feat:`, `docs:`).
+- Team members will log availability in the `COMMUNICATION.md` file.
+- All meeting minutes will be recorded in `meeting_minutes.md`.
+- We will scope our project to what can be realistically completed within 8–10 hours/week per person.
+- We aim for clear, respectful, and inclusive communication in all channels.
+- Team members will promptly raise any risks or blockers using GitHub issues or during check-ins.
