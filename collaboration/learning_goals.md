@@ -18,20 +18,38 @@ As a team, we aim to:
 
 ## Individual
 
-**Safa**  
+## Safa
 
 - Improve fluency in Python by applying it to real problem-solving tasks.  
 - Learn to use Git confidently for version control and collaboration.  
 - Develop better habits around structuring and documenting code.
 
-**Yuri**  
-*→ Add your individual learning goals here*
+## Yuri
 
-**Tamara**  
-*→ Add your individual learning goals here*
+- Deepen practical understanding of data modeling to structure real-world problems
+  using appropriate datasets
+- Learn how to collect, clean, and document datasets for reproducibility
+  and collaborative use
+- Strengthen skills in exploratory data analysis (EDA) and applying basic
+  statistical methods to uncover insights
+- Practice selecting and using the right analysis techniques for different types
+  of data and questions
+- Improve ability to communicate findings effectively to non-technical audiences
+  through writing and visual storytelling
+- Gain experience in preparing a professional project presentation, including
+  summarizing results, articulating impact, and pitching next steps
+- Enhance proficiency in GitHub collaboration: managing branches, issues, PRs,
+  and markdown documentation
+- Take ownership of self-directed learning by filling knowledge gaps in Python,
+  data visualization, and reporting tools during the project
 
-**Ayham**  
-*→ Add your individual learning goals here*
+## Tamara
 
-**Sofia**  
-*→ Add your individual learning goals here*
+## Ayham
+
+## Sofia
+
+- Deepen Technical Expertise
+- Improve Communication and Collaboration
+- Apply our knowledge to real world problem in a common interest
+- Develop a growth mindest and be open to others opinions
