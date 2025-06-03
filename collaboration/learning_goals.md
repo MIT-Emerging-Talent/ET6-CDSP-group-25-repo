@@ -13,6 +13,8 @@ As a team, we aim to:
 - Enhance our speed and accuracy in problem-solving while maintaining clarity.
 - Build habits that reflect good software development practices, such as testing
   and refactoring.
+- Build habits that reflect good software development practices, such as testing
+  and refactoring.
 
 ## Individual
 
