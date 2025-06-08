@@ -56,7 +56,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Ayham  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
 | Safa   | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
 | Safia  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
-| Tamara | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Tamara | 5-9PM  | 5-9PM   | 5-9PM  | 5-9PM   | 5-9PM |  5-9PM  |  5-9PM|
 | Yuri   | 2-8AM  | 2-8AM   | 2-8AM  | 2-8AM   | 2-8AM | 2-8AM  | 2-8AM|
 
 ### Availability for calling/messaging PST
@@ -67,7 +67,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Ayham  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
 | Safa   | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
 | Safia  | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
-| Tamara | 5-10PM  | 5-10PM   | 5-10PM  | 5-10PM   | 5-10PM | 8AM-8PM  | 8AM-8PM|
+| Tamara | 7–11 AM  | 7–11 AM   | 7–11 AM  | 7–11 AM   | 7–11 AM | 7–11 AM  | 7–11 AM|
 | Yuri   | 5-11PM  | 5-11PM   | 5-11PM  | 5-11PM   | 5-11PM | 8AM-8PM  | 8AM-8PM|
 
 ### How many hours everyone has per day
@@ -76,7 +76,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Ayham: _6h_;
 - Safa: _5h_;
 - Safia: _4h_;
-- Tamara: _3h_;
+- Tamara: _2h_;
 - Yuri: _4h_;
 
 ## Asking for Help
