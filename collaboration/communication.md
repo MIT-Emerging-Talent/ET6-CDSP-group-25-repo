@@ -60,7 +60,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|--------|---------|-----------|----------|--------|----------|--------|
 | Arthur | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
-| Ayham  | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
+| Ayham  | Anytime| Anytime | Anytime   | Anytime  | Anytime| 5PM-11PM |5PM–11PM|
 | Safa   | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
 | Safia  | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
 | Tamara | 5–9PM  | 5–9PM   | 5–9PM     | 5–9PM    | 5–9PM  | 5–9PM    | 5–9PM  |
@@ -80,7 +80,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Arthur: _5h_
-- Ayham: _6h_
+- Ayham: _10h_
 - Safa: _5h_
 - Safia: _4h_
 - Tamara: _2h_
