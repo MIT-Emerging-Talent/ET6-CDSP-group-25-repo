@@ -3,23 +3,33 @@
 
 ## Summary
 
-Our group is investigating how government spending on education affects national prosperity. Motivated by global observations and supported by public datasets, we want to understand whether increased education investment leads to better outcomes in GDP per capita, the Human Development Index (HDI), and other quality-of-life indicators. Our focus is to compare countries across different income levels and identify where spending appears efficient and impactful — and where it doesn’t.
+Our group is investigating how government spending on education affects national
+prosperity.Motivated by global observations and supported by public datasets, we
+want to understand whether increased education investment leads to better outcomes
+in GDP per capita, the Human Development Index (HDI), and other quality-of-life
+indicators. Our focus is to compare countries across different income levels and
+identify where spending appears efficient and impactful — and where it doesn’t.
 
 ## Research Questions (aligned with FRESCO)
 
 - **How does education spending (% of GDP) relate to GDP per capita?**
 - **Does more investment in education improve the Human Development Index (HDI)?**
-- **What other factors moderate the effectiveness of education spending (e.g., policy, curriculum focus)?**
+- **What other factors moderate the effectiveness of education spending (e.g., policy,
+  curriculum focus)?**
 - **Which countries achieve high outcomes with relatively low spending, and why?**
 
 ### FRESCO Evaluation
 
-- **Feasible**: Reliable data is publicly available through World Bank, UNDP, UNESCO, and OECD.
-- **Relevant**: Education and prosperity are globally significant and align with multiple SDGs.
-- **Ethical**: All data used is anonymized and open access, avoiding harm or privacy issues.
+- **Feasible**: Reliable data is publicly available through World Bank, UNDP,
+   UNESCO, and OECD.
+- **Relevant**: Education and prosperity are globally significant and align with
+   multiple SDGs.
+- **Ethical**: All data used is anonymized and open access, avoiding harm or
+   privacy issues.
 - **Specific**: Clear indicators (GDP, HDI, spending) guide our analysis.
 - **Complex**: Requires interpretation of multiple economic and social variables.
-- **Original**: Offers a fresh angle by comparing efficiency of education spending across countries.
+- **Original**: Offers a fresh angle by comparing efficiency of education spending
+   across countries.
 
 ---
 
@@ -46,9 +56,17 @@ Our group is investigating how government spending on education affects national
 
 ## 🎓 Personal Insights and Framing
 
-As students in the MIT Emerging Talent Program, we are immersed in a high-quality global learning experience that places a strong emphasis on data science, critical thinking, and systems understanding. This opportunity has inspired us to reflect on the role of national education systems in building sustainable, prosperous societies.
+As students in the MIT Emerging Talent Program, we are immersed in a high-quality
+global learning experience that places a strong emphasis on data science, critical
+thinking, and systems understanding. This opportunity has inspired us to reflect
+on the role of national education systems in building sustainable, prosperous societies.
 
-We observed that the United States — one of the highest spenders on public education — is also home to one of the world’s most innovative and economically powerful environments. This raises the question: does strong investment in education contribute directly to national prosperity, and is that pattern consistent across countries? Our personal and academic journeys have driven us to investigate this relationship through comparative global data.
+We observed that the United States — one of the highest spenders on public education
+— is also home to one of the world’s most innovative and economically powerful
+environments. This raises the question: does strong investment in education contribute
+directly to national prosperity, and is that pattern consistent across countries?
+Our personal and academic journeys have driven us to investigate this relationship
+through comparative global data.
 
 ---
 
