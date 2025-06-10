@@ -59,10 +59,10 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|--------|---------|-----------|----------|--------|----------|--------|
-| Arthur | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
+| Arthur | 5–10PM | 5–10PM  | 3-7:30 PM | to 12:00Am| 5–10PM | 8AM–8PM  | 8AM–8PM|
 | Ayham  | Anytime| Anytime | Anytime   | Anytime  | Anytime| 5PM-11PM |5PM–11PM|
 | Safa   | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
-| Safia  | 5–10PM | 5–10PM  | 5–10PM    | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
+| Safia  | 5–10PM | 5–10PM  | 8am-9pm   | 5–10PM   | 5–10PM | 8AM–8PM  | 8AM–8PM|
 | Tamara | 5–9PM  | 5–9PM   | 5–9PM     | 5–9PM    | 5–9PM  | 5–9PM    | 5–9PM  |
 | Yuri   | 2–8AM  | 2–8AM   | 2–8AM     | 2–8AM    | 2–8AM  | 2–8AM    | 2–8AM  |
 
